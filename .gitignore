@@ -23,6 +23,6 @@ app.json
 babel.config.js
 package-lock.json
 web-build
-.gitignore
+
 
 assets/yelp-key.txt
