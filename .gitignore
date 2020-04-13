@@ -12,3 +12,17 @@ web-report/
 
 # macOS
 .DS_Store
+
+
+node_modules
+.expo
+.DS_Store
+.idea
+.vs
+app.json
+babel.config.js
+package-lock.json
+web-build
+.gitignore
+
+assets/yelp-key.txt
