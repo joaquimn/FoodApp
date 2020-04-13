@@ -3,10 +3,5 @@ node_modules
 .DS_Store
 .idea
 .vs
-app.json
-babel.config.js
-package-lock.json
-web-build
 
 
-assets/yelp-key.txt
