@@ -3,5 +3,13 @@ node_modules
 .DS_Store
 .idea
 .vs
+app.json
+babel.config.js
+package-lock.json
+package.json
+web-build
+.gitignore
+.vs/slnx.sqlite
 
 
+assets/yelp-key.txt
